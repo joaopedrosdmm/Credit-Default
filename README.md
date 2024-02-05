@@ -39,9 +39,9 @@ A state-of-the-art credit scoring and default prediction system for financial se
         <li>
           XGBoost
          </li>
-      <ul>
+      </ul>
     </li>
    <li>
       Conclusion
-    </li>
+  </li>
 </ol>
